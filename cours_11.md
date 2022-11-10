@@ -10,4 +10,4 @@ Premièrement, il faudrait améliorer la qualité de ma webcam. Quand j'ai enreg
 Deuxièmement, il faudrait que j'ajoute davantage de contenu dans ma vidéo. Avec le peu d'informations, j'ai fini par avoir une vidéo de 4:57, ce qui est un peu moins que le temps visé. Pour la prochaine présentation, je vais planifier le contenu que je souhaite partager en avance.
 
 ### Présentation préférée
-La présentation que j'ai préférée, c'est celle de Lilian Bordes. Ce que j'ai aimé de sa présentation, c'est son dynamisme. Comparé aux autres, il était énergique pendant la vidéo et cela rendait le tutoriel moins ennuyant. J'ai aussi beaucoup apprécié son montage: il a intégré la description de ses étapes lorsqu'il faisait la démonstration du tutoriel, et la musique était une belle touche.
+La présentation que j'ai préférée, c'est celle de Lilian Bordes. Ce que j'ai aimé de sa présentation, c'est son dynamisme. Comparé aux autres, il était énergique pendant la vidéo et cela rendait le tutoriel moins ennuyant. J'ai aussi beaucoup apprécié son montage: il a intégré la description de ses étapes lorsqu'il faisait la démonstration du tutoriel et la musique était une belle touche.
